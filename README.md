@@ -1,4 +1,4 @@
-[Omega](https://getomega.dev/)
+[Upsilon](https://lolocomotive.github.io/Upsilon-website)
 ==================
 
-This simulator uses [Omega](https://github.com/Omega-Numworks/Omega)!
+This simulator uses [Upsilon](https://github.com/UpsilonNumworks/Upsilon)!
